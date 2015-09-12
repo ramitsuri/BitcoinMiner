@@ -703,9 +703,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-agent;0.13.8!test-agent.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.8!apply-macro.jar
-[debug] :: resolution report :: resolve 1558ms :: artifacts dl 36ms
+[debug] :: resolution report :: resolve 1913ms :: artifacts dl 54ms
 [debug] 	report for default#bitcoinminer$sbt_2.11;1.0 default produced in C:\Users\ramit\IdeaProjects\BitcoinMiner\target\resolution-cache\reports\default-bitcoinminer$sbt_2.11-default.xml
-[debug] 	resolve done (1558ms resolve - 36ms download)
+[debug] 	resolve done (1913ms resolve - 54ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: default#bitcoinminer$sources_2.11;1.0
 [debug] 	confs: [default]
@@ -1069,6 +1069,6 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_8_2;0.13.8!precompiled-2_8_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_2;0.13.8!precompiled-2_9_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_3;0.13.8!precompiled-2_9_3.jar(src)
-[debug] :: resolution report :: resolve 285ms :: artifacts dl 52ms
+[debug] :: resolution report :: resolve 222ms :: artifacts dl 49ms
 [debug] 	report for default#bitcoinminer$sources_2.11;1.0 default produced in C:\Users\ramit\IdeaProjects\BitcoinMiner\target\resolution-cache\reports\default-bitcoinminer$sources_2.11-default.xml
-[debug] 	resolve done (285ms resolve - 52ms download)
+[debug] 	resolve done (222ms resolve - 49ms download)
