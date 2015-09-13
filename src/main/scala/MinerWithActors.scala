@@ -83,8 +83,10 @@ object project1 extends App{
     val system = ActorSystem("MinerSystem")
     val actor = system.actorOf(Props(new ParentActor), name = "ParentActor")
     implicit val timeout = Timeout(25 seconds)
-    actor ! Start(Integer.parseInt(args(0)))
-    //actor ! Start(1)
+    if(args.length!=0)
+      actor ! Start(Integer.parseInt(args(0)))
+    else
+      actor ! Start(5)
     while(true){
       val future = actor ? Generate()
       future.map { result =>

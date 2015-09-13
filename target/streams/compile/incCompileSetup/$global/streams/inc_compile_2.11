@@ -1,0 +1,358 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+27 items
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\Miner$$anonfun$getHash$1.class
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\Miner$$anonfun$getStartingString$1.class
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\Miner$.class
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\Miner$delayedInit$body.class
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\Miner.class
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\ChildActor$$anonfun$receive$2$$anonfun$1.class
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\ChildActor$$anonfun$receive$2$$anonfun$applyOrElse$1.class
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\ChildActor$$anonfun$receive$2.class
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\ChildActor.class
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\Done$.class
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\Done.class
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\Generate$.class
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\Generate.class
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\Hash$.class
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\Hash.class
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\ParentActor$$anonfun$receive$1$$anonfun$applyOrElse$2.class
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\ParentActor$$anonfun$receive$1$$anonfun$applyOrElse$3.class
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\ParentActor$$anonfun$receive$1.class
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\ParentActor.class
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\RemoteConnect$.class
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\RemoteConnect.class
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\Start$.class
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\Start.class
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\project1$$anonfun$2.class
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\project1$$anonfun$main$1.class
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\project1$.class
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\project1.class
+binary dependencies:
+6 items
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> C:\Program Files\Java\jre1.8.0_60\lib\rt.jar
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> C:\Users\ramit\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> C:\Users\ramit\Downloads\activator-dist-1.3.6\repository\com.typesafe.akka\akka-actor_2.11\2.3.11\jars\akka-actor_2.11.jar
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> C:\Program Files\Java\jre1.8.0_60\lib\rt.jar
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> C:\Users\ramit\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> C:\Users\ramit\Downloads\activator-dist-1.3.6\repository\com.typesafe.akka\akka-actor_2.11\2.3.11\jars\akka-actor_2.11.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+27 items
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> Miner
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> Miner$
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> Miner$$anonfun$getHash$1
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> Miner$$anonfun$getStartingString$1
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> Miner$delayedInit$body
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> ChildActor
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> ChildActor$$anonfun$receive$2
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> ChildActor$$anonfun$receive$2$$anonfun$1
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> ChildActor$$anonfun$receive$2$$anonfun$applyOrElse$1
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> Done
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> Done$
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> Generate
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> Generate$
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> Hash
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> Hash$
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> ParentActor
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> ParentActor$$anonfun$receive$1
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> ParentActor$$anonfun$receive$1$$anonfun$applyOrElse$2
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> ParentActor$$anonfun$receive$1$$anonfun$applyOrElse$3
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> RemoteConnect
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> RemoteConnect$
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> Start
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> Start$
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> project1
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> project1$
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> project1$$anonfun$2
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> project1$$anonfun$main$1
+used names:
+193 items
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> +
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> -
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> <init>
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> ActorSystem
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> App
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> Array
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> ClassTag
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> Int
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> MessageDigest
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> Miner
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> Predef
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> Random
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> String
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> System
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> actor
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> akka
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> alphanumeric
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> apply
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> augmentString
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> byteArrayOps
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> canBuildFrom
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> count
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> count_=
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> digest
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> foreach
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> format
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> getBytes
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> getHash
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> getInstance
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> getRandomString
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> getStartingString
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> hashedString
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> hashedString_=
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> intWrapper
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> java
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> lang
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> map
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> materializeClassTag
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> messageDigest
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> mkString
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> nanoTime
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> numberOfZeros
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> package
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> println
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> randomString
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> randomString_=
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> refArrayOps
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> run
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> run_=
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> scala
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> security
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> startsWith
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> stringToHash
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> timeEnd
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> timeStart
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> to
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> toLowerCase
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> toString
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> unary_!
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> update
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> util
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> while$1
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> zeroString
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> !
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> !=
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> %
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> &&
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> +
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> <init>
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> ==
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> ?
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> A1
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> AbstractFunction0
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> AbstractFunction1
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> AbstractFunction2
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> Actor
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> ActorRef
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> ActorSystem
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> App
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> Array
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> B1
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> ChildActor
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> ClassTag
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> Done
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> ExecutionContexts
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> Function1
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> Generate
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> Hash
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> Int
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> Integer
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> MessageDigest
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> None
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> Option
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> ParentActor
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> Predef
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> Product
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> Props
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> Random
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> RemoteConnect
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> ScalaRunTime
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> Serializable
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> Start
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> Statics
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> String
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> Timeout
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> Unit
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> _hashCode
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> _toString
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> actor
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> actorOf
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> actorRef2Scala
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> akka
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> alphanumeric
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> anyHash
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> apply
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> args
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> asInstanceOf
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> ask
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> augmentString
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> byteArrayOps
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> canBuildFrom
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> concurrent
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> context
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> count
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> count_=
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> digest
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> dispatch
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> duration
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> ec
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> eq
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> finalizeHash
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> foreach
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> format
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> future
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> getBytes
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> getInstance
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> global
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> hashedString
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> intWrapper
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> isInstanceOf
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> java
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> lang
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> length
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> map
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> materializeClassTag
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> messageDigest
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> mix
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> mkString
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> numberOfRequiredZeros
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> numberOfRequiredZeros_=
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> numberOfZeros
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> package
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> parentSender
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> parentSender_=
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> parseInt
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> pattern
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> println
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> project1
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> qual$1
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> qual$2
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> randomString
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> refArrayOps
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> remoteWorker
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> remoteWorker_=
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> requestSender
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> requestSender_=
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> result
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> runtime
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> scala
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> seconds
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> security
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> self
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> sender
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> shutdown
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> startsWith
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> stringHashed
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> stringToHash
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> system
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> take
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> timeout
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> to
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> toString
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> typedProductIterator
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> unchecked
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> update
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> util
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> while$1
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> x$4
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> x$5
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> x$6
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> x$7
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> zeroString
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> ||
+product stamps:
+27 items
+C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\ChildActor$$anonfun$receive$2$$anonfun$1.class -> lastModified(1442186048728)
+C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\ChildActor$$anonfun$receive$2$$anonfun$applyOrElse$1.class -> lastModified(1442186048737)
+C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\ChildActor$$anonfun$receive$2.class -> lastModified(1442186048717)
+C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\ChildActor.class -> lastModified(1442186048703)
+C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\Done$.class -> lastModified(1442186048763)
+C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\Done.class -> lastModified(1442186048756)
+C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\Generate$.class -> lastModified(1442186048776)
+C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\Generate.class -> lastModified(1442186048771)
+C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\Hash$.class -> lastModified(1442186048780)
+C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\Hash.class -> lastModified(1442186048792)
+C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\Miner$$anonfun$getHash$1.class -> lastModified(1442185784314)
+C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\Miner$$anonfun$getStartingString$1.class -> lastModified(1442185784319)
+C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\Miner$.class -> lastModified(1442185784309)
+C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\Miner$delayedInit$body.class -> lastModified(1442185784324)
+C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\Miner.class -> lastModified(1442185784291)
+C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\ParentActor$$anonfun$receive$1$$anonfun$applyOrElse$2.class -> lastModified(1442186048817)
+C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\ParentActor$$anonfun$receive$1$$anonfun$applyOrElse$3.class -> lastModified(1442186048821)
+C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\ParentActor$$anonfun$receive$1.class -> lastModified(1442186048813)
+C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\ParentActor.class -> lastModified(1442186048803)
+C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\project1$$anonfun$2.class -> lastModified(1442186048872)
+C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\project1$$anonfun$main$1.class -> lastModified(1442186048876)
+C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\project1$.class -> lastModified(1442186048865)
+C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\project1.class -> lastModified(1442186048852)
+C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\RemoteConnect$.class -> lastModified(1442186048825)
+C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\RemoteConnect.class -> lastModified(1442186048832)
+C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\Start$.class -> lastModified(1442186048847)
+C:\Users\ramit\IdeaProjects\BitcoinMiner\target\scala-2.11\classes\Start.class -> lastModified(1442186048841)
+source stamps:
+2 items
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> hash(b3e3174c4a5eb6663c62fa8a8c325e054e1b1507)
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> hash(0326c82c085a52c6907fab67514757a957413b97)
+binary stamps:
+3 items
+C:\Program Files\Java\jre1.8.0_60\lib\rt.jar -> lastModified(1441682425018)
+C:\Users\ramit\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar -> lastModified(1435004218000)
+C:\Users\ramit\Downloads\activator-dist-1.3.6\repository\com.typesafe.akka\akka-actor_2.11\2.3.11\jars\akka-actor_2.11.jar -> lastModified(1441682937728)
+class names:
+3 items
+C:\Program Files\Java\jre1.8.0_60\lib\rt.jar -> java.lang.Object
+C:\Users\ramit\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar -> scala.Product
+C:\Users\ramit\Downloads\activator-dist-1.3.6\repository\com.typesafe.akka\akka-actor_2.11\2.3.11\jars\akka-actor_2.11.jar -> akka.actor.Actor
+internal apis:
+2 items
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAaBm8YAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAIXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cK6XfOJ0AAZub3RpZnlzcQB+AAzfAPIOdAAFY291bnRzcQB+AAwcWn6jdAAEd2FpdHNxAH4ADAsstHR0AA0kYXNJbnN0YW5jZU9mc3EAfgAMT12W2XQABmVxdWFsc3NxAH4ADHCx6id0AAd0aW1lRW5kc3EAfgAMqgwgU3QADGFzSW5zdGFuY2VPZnNxAH4ADN9YyFx0AA5leGVjdXRpb25TdGFydHNxAH4ADOLpAjd0AANydW5zcQB+AAyvEVYWdAAMaGFzaGVkU3RyaW5nc3EAfgAMcjArsnQADHN5bmNocm9uaXplZHNxAH4ADJljpIF0AAxyYW5kb21TdHJpbmdzcQB+AAxnPhZsdAANJGlzSW5zdGFuY2VPZnNxAH4ADKdXEP90AARtYWluc3EAfgAMWD4AZXQACW5vdGlmeUFsbHNxAH4ADDvxGkl0AAdnZXRIYXNoc3EAfgAMhAgmsHQADGlzSW5zdGFuY2VPZnNxAH4ADDyKGW10AAI9PXNxAH4ADLAGg+N0AAVjbG9uZXNxAH4ADNH7DhZ0ABFnZXRTdGFydGluZ1N0cmluZ3NxAH4ADDiCeKh0AAh0b1N0cmluZ3NxAH4ADHWUjaV0AARhcmdzc3EAfgAM+6BPOHQAAiE9c3EAfgAM5A6HZHQACGdldENsYXNzc3EAfgAMsVRI3XQABU1pbmVyc3EAfgAM5zUFQXQAAm5lc3EAfgAMC2EZQ3QAAmVxc3EAfgAM+MHJs3QAD2dldFJhbmRvbVN0cmluZ3NxAH4ADKx2i090AAl0aW1lU3RhcnRzcQB+AAwyKtHMdAALZGVsYXllZEluaXRzcQB+AAzTHPsEdAACIyNzcQB+AAy7syJZdAAIZmluYWxpemVzcQB+AAxz+fPNdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBZeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+AD91cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAQc2NhbGEuZGVwcmVjYXRlZHQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBzeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgByAHBzcQB+AHdzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AWUwACWluaGVyaXRlZHEAfgBZTAAHcGFyZW50c3EAfgBZeHEAfgB7c3EAfgByAHBzcQB+AHd1cQB+AFQAAAAAc3EAfgByAHBzcQB+AHd1cQB+AFQAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AFpxAH4AY3VxAH4AZAAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AIh4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AenQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB6c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCic3EAfgBmAHEAfgApdXEAfgBoAAAAAHNxAH4AlXQABFVuaXRxAH4Am3VyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AIh4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AGt0AAVQbGFpbnEAfgA5c3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCWWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgB6c3EAfgCVdAAFQXJyYXlxAH4Am3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCVdAAGU3RyaW5nc3EAfgCZc3EAfgCcdXEAfgCfAAAAA3NxAH4AoXQABGphdmFzcQB+AKF0AARsYW5ncQB+AKZzcQB+AHIAcHNxAH4Ad3VxAH4AvQAAAARzcQB+AJV0AANBcHBxAH4Am3NxAH4AlXQAC0RlbGF5ZWRJbml0cQB+AJtzcQB+AJV0AAZPYmplY3RxAH4AwXNxAH4AlXQAA0FueXEAfgCbdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAU/I+JN9dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAQkM6XFVzZXJzXHJhbWl0XElkZWFQcm9qZWN0c1xCaXRjb2luTWluZXJcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFLPjF0xKXrZmPGL6iowyXgVOGxUH
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCd26R+AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwyW98u3QABHNlbGZzcQB+AAuaBQqVdAAHY29udGV4dHVxAH4ACQAAAD9zcQB+AAtpgxAldAAMcGFyZW50U2VuZGVyc3EAfgALL08+hnQADVJlbW90ZUNvbm5lY3RzcQB+AAsSs/nydAAGbm90aWZ5c3EAfgALJJLaYnQADXJlcXVlc3RTZW5kZXJzcQB+AAsYf6PzdAAHUmVjZWl2ZXNxAH4AC1n5hVh0ABVudW1iZXJPZlJlcXVpcmVkWmVyb3NzcQB+AAs6I1MDdAAFY291bnRzcQB+AAsA5PzZdAAEd2FpdHNxAH4AC4kTpAl0AA5jb3B5JGRlZmF1bHQkMnNxAH4ACwOnbGp0AA0kYXNJbnN0YW5jZU9mc3EAfgALPTKP9nQADW51bWJlck9mWmVyb3NzcQB+AAulBegjdAAMcmVtb3RlV29ya2Vyc3EAfgALp8QnPHQADHByb2R1Y3RBcml0eXNxAH4ACzJPo+J0AAZlcXVhbHNzcQB+AAvbCw7xdAAMc3RyaW5nVG9IYXNoc3EAfgALmrRVQ3QADGFzSW5zdGFuY2VPZnNxAH4AC6p84cB0AA5leGVjdXRpb25TdGFydHNxAH4AC4B50tl0AAxoYXNoZWRTdHJpbmdzcQB+AAtmewQkdAAMc3luY2hyb25pemVkc3EAfgALsXg+7nQADSRpc0luc3RhbmNlT2ZzcQB+AAvhO6Z2dAAHcmVjZWl2ZXNxAH4AC110+RJ0AApwcmVSZXN0YXJ0c3EAfgALwJUe3XQADWFyb3VuZFJlY2VpdmVzcQB+AAubvxMFdAAIY2FuRXF1YWxzcQB+AAs+So4JdAALcG9zdFJlc3RhcnRzcQB+AAsVh0c9dAAEbWFpbnNxAH4AC3nkIkt0AAVTdGFydHNxAH4ACw7Eggp0AAhwb3N0U3RvcHNxAH4ACy+5aOx0AA1wcm9kdWN0UHJlZml4c3EAfgALa3rYjHQACW5vdGlmeUFsbHNxAH4AC0rDsUR0ABFhcm91bmRQb3N0UmVzdGFydHNxAH4AC9JkRkF0AApDaGlsZEFjdG9yc3EAfgALJtNNRXQABERvbmVzcQB+AAuO7CTFdAAMaXNJbnN0YW5jZU9mc3EAfgAL3M6T7nQAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAv57B9bdAAOYXJvdW5kUG9zdFN0b3BzcQB+AAv2YGo3dAAGPGluaXQ+c3EAfgALz/rYt3QACHByZVN0YXJ0c3EAfgAL1zn4MnQACEdlbmVyYXRlc3EAfgALQFhomHQACXVuaGFuZGxlZHNxAH4ACxeM92h0AAI9PXNxAH4AC1OPWlZ0AAVjbG9uZXNxAH4ACxZrnw10AARjb3B5c3EAfgALakJg7HQABnNlbmRlcnNxAH4ACzwNyi90AAh0b1N0cmluZ3NxAH4AC5DKB5x0AARhcmdzc3EAfgALN2QXQ3QACHByb2plY3Qxc3EAfgALxpUF8nQAAiE9c3EAfgALnkw+MXQACGdldENsYXNzc3EAfgALN8Pd0nQAC1BhcmVudEFjdG9yc3EAfgALmxeH7HQADmNvcHkkZGVmYXVsdCQxc3EAfgALjCu/i3QAAm5lc3EAfgALXBv+pHQAEnN1cGVydmlzb3JTdHJhdGVneXNxAH4AC5h0yXx0AAJlcXNxAH4AC4npjO10AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAvqxH0wdAALZGVsYXllZEluaXRzcQB+AAsZvi/gdAACIyNzcQB+AAsB8jV+dAAIZmluYWxpemVzcQB+AAseJu9idAAOcHJvZHVjdEVsZW1lbnRzcQB+AAu/T9eKdAAIaGFzaENvZGVzcQB+AAvT3FChdAAESGFzaHNxAH4AC+4wIcl0AAxzdHJpbmdIYXNoZWRzcQB+AAuS3UqPdAAOYXJvdW5kUHJlU3RhcnRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAAIc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCZeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ABV1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AsAFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AmUwACWluaGVyaXRlZHEAfgCZTAAHcGFyZW50c3EAfgCZeHEAfgC3c3EAfgCwAXVxAH4AlAAAAABwc3EAfgCwAXVxAH4AlAAAAABwc3EAfgCwAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AtnQADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AtnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4A0HNxAH4Aw3EAfgDGc3EAfgDHc3EAfgDKdXEAfgDNAAAAA3NxAH4Az3QABGphdmFzcQB+AM90AAJpb3EAfgDUc3EAfgDDdAAHUHJvZHVjdHEAfgDJc3EAfgDDdAAGRXF1YWxzcQB+AMlzcQB+AMN0AAZPYmplY3RzcQB+AMdzcQB+AMp1cQB+AM0AAAADc3EAfgDPcQB+ANpzcQB+AM90AARsYW5ncQB+ANRzcQB+AMN0AANBbnlxAH4AyXBwc3EAfgCWcQB+AKN1cQB+AKQAAAAAc3EAfgCmAHEAfgBfdXEAfgCoAAAAAHEAfgCsdXEAfgCuAAAAAHNxAH4AsAFxAH4AuHBzcQB+ALABc3EAfgC6c3EAfgCwAXVxAH4AlAAAAABwc3EAfgCwAXVxAH4AlAAAAABwc3EAfgCwAXVxAH4AwQAAAAZzcQB+AMNxAH4AxnNxAH4Ax3NxAH4AynVxAH4AzQAAAAJzcQB+AM9xAH4A0nEAfgDUc3EAfgDDcQB+AMZzcQB+AMdzcQB+AMp1cQB+AM0AAAADc3EAfgDPcQB+ANpzcQB+AM90AAJpb3EAfgDUc3EAfgDDcQB+AN5xAH4A+nNxAH4Aw3QABkVxdWFsc3EAfgD6c3EAfgDDcQB+AOJzcQB+AMdzcQB+AMp1cQB+AM0AAAADc3EAfgDPcQB+ANpzcQB+AM9xAH4A6HEAfgDUc3EAfgDDcQB+AOpxAH4A+nBwc3EAfgCWcQB+AKN1cQB+AKQAAAAAc3EAfgCmAHEAfgCLdXEAfgCoAAAAAHEAfgCsdXEAfgCuAAAAAHNxAH4AsAFxAH4AuHBzcQB+ALABc3EAfgC6c3EAfgCwAXVxAH4AlAAAAABwc3EAfgCwAXVxAH4AlAAAAABwc3EAfgCwAXVxAH4AwQAAAAZzcQB+AMNxAH4AxnNxAH4Ax3NxAH4AynVxAH4AzQAAAAJzcQB+AM9xAH4A0nEAfgDUc3EAfgDDcQB+AMZzcQB+AMdzcQB+AMp1cQB+AM0AAAADc3EAfgDPcQB+ANpzcQB+AM90AAJpb3EAfgDUc3EAfgDDcQB+AN5xAH4BHnNxAH4Aw3QABkVxdWFsc3EAfgEec3EAfgDDcQB+AOJzcQB+AMdzcQB+AMp1cQB+AM0AAAADc3EAfgDPcQB+ANpzcQB+AM9xAH4A6HEAfgDUc3EAfgDDcQB+AOpxAH4BHnBwc3EAfgCWcQB+AKN1cQB+AKQAAAAAc3EAfgCmAHEAfgBTdXEAfgCoAAAAAHEAfgCsdXEAfgCuAAAAAHNxAH4AsAFxAH4AuHBzcQB+ALABc3EAfgC6c3EAfgCwAXVxAH4AlAAAAABwc3EAfgCwAXVxAH4AlAAAAABwc3EAfgCwAXVxAH4AwQAAAAZzcQB+AMNxAH4AxnNxAH4Ax3NxAH4AynVxAH4AzQAAAAJzcQB+AM9xAH4A0nEAfgDUc3EAfgDDcQB+AMZzcQB+AMdzcQB+AMp1cQB+AM0AAAADc3EAfgDPcQB+ANpzcQB+AM90AAJpb3EAfgDUc3EAfgDDcQB+AN5xAH4BQnNxAH4Aw3QABkVxdWFsc3EAfgFCc3EAfgDDcQB+AOJzcQB+AMdzcQB+AMp1cQB+AM0AAAADc3EAfgDPcQB+ANpzcQB+AM9xAH4A6HEAfgDUc3EAfgDDcQB+AOpxAH4BQnBwc3EAfgCWcQB+AKN1cQB+AKQAAAAAc3EAfgCmAHEAfgBHdXEAfgCoAAAAAHEAfgCsdXEAfgCuAAAAAHNxAH4AsAFxAH4AuHBzcQB+ALABc3EAfgC6c3EAfgCwAXVxAH4AlAAAAABwc3EAfgCwAXVxAH4AlAAAAABwc3EAfgCwAXVxAH4AwQAAAAZzcQB+AMNxAH4AxnNxAH4Ax3NxAH4AynVxAH4AzQAAAAJzcQB+AM9xAH4A0nEAfgDUc3EAfgDDcQB+AMZzcQB+AMdzcQB+AMp1cQB+AM0AAAADc3EAfgDPcQB+ANpzcQB+AM90AAJpb3EAfgDUc3EAfgDDcQB+AN5xAH4BZnNxAH4Aw3QABkVxdWFsc3EAfgFmc3EAfgDDcQB+AOJzcQB+AMdzcQB+AMp1cQB+AM0AAAADc3EAfgDPcQB+ANpzcQB+AM9xAH4A6HEAfgDUc3EAfgDDcQB+AOpxAH4BZnBwc3EAfgCWcQB+AKN1cQB+AKQAAAAAc3EAfgCmAHEAfgB1dXEAfgCoAAAAAHEAfgCsdXEAfgCuAAAAAHNxAH4AsAFxAH4AuHBzcQB+ALABc3EAfgC6c3EAfgCwAXVxAH4AlAAAAABwc3EAfgCwAXVxAH4AlAAAAABwc3EAfgCwAXVxAH4AwQAAAANzcQB+AMN0AAVBY3RvcnNxAH4Ax3NxAH4AynVxAH4AzQAAAANzcQB+AM90AARha2thc3EAfgDPdAAFYWN0b3JxAH4A1HNxAH4Aw3EAfgDic3EAfgDHc3EAfgDKdXEAfgDNAAAAA3NxAH4Az3EAfgDac3EAfgDPcQB+AOhxAH4A1HNxAH4Aw3EAfgDqc3EAfgDHc3EAfgDKdXEAfgDNAAAAAnNxAH4Az3EAfgDScQB+ANRwcHNxAH4AlnEAfgCjdXEAfgCkAAAAAHNxAH4ApgBxAH4AUXVxAH4AqAAAAABxAH4ArHVxAH4ArgAAAABzcQB+ALABcQB+ALhwc3EAfgCwAXNxAH4AunNxAH4AsAF1cQB+AJQAAAAAcHNxAH4AsAF1cQB+AJQAAAAAcHNxAH4AsAF1cQB+AMEAAAADc3EAfgDDdAAFQWN0b3JzcQB+AMdzcQB+AMp1cQB+AM0AAAADc3EAfgDPdAAEYWtrYXNxAH4Az3QABWFjdG9ycQB+ANRzcQB+AMNxAH4A4nNxAH4Ax3NxAH4AynVxAH4AzQAAAANzcQB+AM9xAH4A2nNxAH4Az3EAfgDocQB+ANRzcQB+AMNxAH4A6nNxAH4Ax3NxAH4AynVxAH4AzQAAAAJzcQB+AM9xAH4A0nEAfgDUcHBzcQB+AJZxAH4Ao3VxAH4ApAAAAABzcQB+AKYAcQB+AG91cQB+AKgAAAAAfnEAfgCqdAAGTW9kdWxldXEAfgCuAAAAAXQAEHNjYWxhLmRlcHJlY2F0ZWRzcQB+ALABcQB+ALhwc3EAfgCwAXNxAH4AunNxAH4AsAF1cQB+AJQAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AJpxAH4Ao3VxAH4ApAAAAABzcQB+AKYCcQB+AEV1cQB+AKgAAAAAc3EAfgDDdAAEVW5pdHNxAH4Ax3NxAH4AynVxAH4AzQAAAAJzcQB+AM9xAH4A0nEAfgDUdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AAxMAAN0cGVxAH4BzXhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4Aq3QABVBsYWlucQB+AG1zcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AMRbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+ALZzcQB+AMN0AAVBcnJheXEAfgHVdXEAfgDBAAAAAXNxAH4Aw3QABlN0cmluZ3NxAH4Ax3NxAH4AynVxAH4AzQAAAANzcQB+AM9xAH4A2nNxAH4Az3EAfgDocQB+ANRwc3EAfgCwAXVxAH4AlAAAAABwc3EAfgCwAXVxAH4AwQAAAARzcQB+AMN0AANBcHBxAH4B1XNxAH4Aw3QAC0RlbGF5ZWRJbml0cQB+AdVzcQB+AMNxAH4A4nEAfgHuc3EAfgDDcQB+AOpxAH4B1XBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAU/I/KG2dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAQkM6XFVzZXJzXHJhbWl0XElkZWFQcm9qZWN0c1xCaXRjb2luTWluZXJcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFAMmyCwIWlLGkH+rZ1FHV6lXQTuX
+external apis:
+0 items
+source infos:
+2 items
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\Miner.scala -> 
+AAAAAAAAAAA=
+C:\Users\ramit\IdeaProjects\BitcoinMiner\src\main\scala\MinerWithActors.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT8j4k311cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQkM6XFVzZXJzXHJhbWl0XElkZWFQcm9qZWN0c1xCaXRjb2luTWluZXJcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT8j8obZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQkM6XFVzZXJzXHJhbWl0XElkZWFQcm9qZWN0c1xCaXRjb2luTWluZXJcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=

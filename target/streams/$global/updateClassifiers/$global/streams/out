@@ -9,7 +9,7 @@
 [debug] == resolving dependencies for default#bitcoinminer$sources_javadoc_2.11;1.0 [compile]
 [debug] == resolving dependencies default#bitcoinminer$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-library;2.11.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@20c78839
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@55ac48ee
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.7
 [debug] 	found org.scala-lang#scala-library;2.11.7 in sbt-chain
 [debug] 	[2.11.7] org.scala-lang#scala-library;2.11.7
@@ -18,7 +18,7 @@
 [debug] == resolving dependencies default#bitcoinminer$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile->master]
 [debug] == resolving dependencies default#bitcoinminer$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.11 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-actor_2.11;2.3.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@67f313dc
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6c529f94
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-actor_2.11;2.3.11
 [debug] 	found com.typesafe.akka#akka-actor_2.11;2.3.11 in sbt-chain
 [debug] == resolving dependencies default#bitcoinminer$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.11 [compile->runtime]
@@ -26,7 +26,7 @@
 [debug] == resolving dependencies default#bitcoinminer$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.11 [compile->master]
 [debug] == resolving dependencies default#bitcoinminer$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [compile->default(compile)]
 [info] Resolving com.typesafe#config;1.2.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5db465c5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7ffd3fcd
 [debug] sbt-chain: module revision found in cache: com.typesafe#config;1.2.1
 [debug] 	found com.typesafe#config;1.2.1 in sbt-chain
 [debug] == resolving dependencies default#bitcoinminer$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [compile->runtime]
@@ -34,7 +34,7 @@
 [debug] == resolving dependencies default#bitcoinminer$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [compile->master]
 [debug] == resolving dependencies default#bitcoinminer$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-testkit_2.11;2.3.11 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-testkit_2.11;2.3.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2c8c0902
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4286a68e
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-testkit_2.11;2.3.11
 [debug] 	found com.typesafe.akka#akka-testkit_2.11;2.3.11 in sbt-chain
 [debug] == resolving dependencies default#bitcoinminer$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-testkit_2.11;2.3.11 [compile->runtime]
@@ -42,7 +42,7 @@
 [debug] == resolving dependencies default#bitcoinminer$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-testkit_2.11;2.3.11 [compile->master]
 [debug] == resolving dependencies default#bitcoinminer$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.3.10 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-remote_2.11;2.3.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@357671df
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1bcc8542
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-remote_2.11;2.3.10
 [debug] 	found com.typesafe.akka#akka-remote_2.11;2.3.10 in sbt-chain
 [debug] == resolving dependencies default#bitcoinminer$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.3.10 [compile->runtime]
@@ -50,7 +50,7 @@
 [debug] == resolving dependencies default#bitcoinminer$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.3.10 [compile->master]
 [debug] == resolving dependencies default#bitcoinminer$sources_javadoc_2.11;1.0->io.netty#netty;3.8.0.Final [compile->default(compile)]
 [info] Resolving io.netty#netty;3.8.0.Final ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@61e5e578
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@f863857
 [debug] sbt-chain: module revision found in cache: io.netty#netty;3.8.0.Final
 [debug] 	found io.netty#netty;3.8.0.Final in sbt-chain
 [debug] == resolving dependencies default#bitcoinminer$sources_javadoc_2.11;1.0->io.netty#netty;3.8.0.Final [compile->runtime]
@@ -58,7 +58,7 @@
 [debug] == resolving dependencies default#bitcoinminer$sources_javadoc_2.11;1.0->io.netty#netty;3.8.0.Final [compile->master]
 [debug] == resolving dependencies default#bitcoinminer$sources_javadoc_2.11;1.0->com.google.protobuf#protobuf-java;2.5.0 [compile->default(compile)]
 [info] Resolving com.google.protobuf#protobuf-java;2.5.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@37b48b2c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@73996429
 [debug] sbt-chain: module revision found in cache: com.google.protobuf#protobuf-java;2.5.0
 [debug] 	found com.google.protobuf#protobuf-java;2.5.0 in sbt-chain
 [debug] == resolving dependencies default#bitcoinminer$sources_javadoc_2.11;1.0->com.google.protobuf#protobuf-java;2.5.0 [compile->runtime]
@@ -66,7 +66,7 @@
 [debug] == resolving dependencies default#bitcoinminer$sources_javadoc_2.11;1.0->com.google.protobuf#protobuf-java;2.5.0 [compile->master]
 [debug] == resolving dependencies default#bitcoinminer$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->default(compile)]
 [info] Resolving org.uncommons.maths#uncommons-maths;1.2.2a ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4268a357
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@11fa6cea
 [debug] sbt-chain: module revision found in cache: org.uncommons.maths#uncommons-maths;1.2.2a
 [debug] 	found org.uncommons.maths#uncommons-maths;1.2.2a in sbt-chain
 [debug] == resolving dependencies default#bitcoinminer$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->runtime]
@@ -241,7 +241,7 @@
 [debug] == resolving dependencies default#bitcoinminer$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [test->master]
 [debug] == resolving dependencies default#bitcoinminer$sources_javadoc_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [test->default(compile)]
 [info] Resolving org.scalatest#scalatest_2.11;2.2.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@71199296
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1446b2c3
 [debug] sbt-chain: module revision found in cache: org.scalatest#scalatest_2.11;2.2.4
 [debug] 	found org.scalatest#scalatest_2.11;2.2.4 in sbt-chain
 [debug] == resolving dependencies default#bitcoinminer$sources_javadoc_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [test->runtime]
@@ -249,7 +249,7 @@
 [debug] == resolving dependencies default#bitcoinminer$sources_javadoc_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [test->master]
 [debug] == resolving dependencies default#bitcoinminer$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.2 [test->default(compile)]
 [info] Resolving org.scala-lang#scala-reflect;2.11.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@20d0f60e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@8319bd8
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.11.2
 [debug] 	found org.scala-lang#scala-reflect;2.11.2 in sbt-chain
 [debug] 	[2.11.2] org.scala-lang#scala-reflect;2.11.2
@@ -258,7 +258,7 @@
 [debug] == resolving dependencies default#bitcoinminer$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.2 [test->master]
 [debug] == resolving dependencies default#bitcoinminer$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [test->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-xml_2.11;1.0.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4d71b5cc
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@44315771
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-xml_2.11;1.0.2
 [debug] 	found org.scala-lang.modules#scala-xml_2.11;1.0.2 in sbt-chain
 [debug] == resolving dependencies default#bitcoinminer$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [test->runtime]
@@ -266,7 +266,7 @@
 [debug] == resolving dependencies default#bitcoinminer$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [test->master]
 [debug] == resolving dependencies default#bitcoinminer$sources_javadoc_2.11;1.0->junit#junit;4.12 [test->default(compile)]
 [info] Resolving junit#junit;4.12 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@72629100
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@c8d572d
 [debug] sbt-chain: module revision found in cache: junit#junit;4.12
 [debug] 	found junit#junit;4.12 in sbt-chain
 [debug] == resolving dependencies default#bitcoinminer$sources_javadoc_2.11;1.0->junit#junit;4.12 [test->runtime]
@@ -274,7 +274,7 @@
 [debug] == resolving dependencies default#bitcoinminer$sources_javadoc_2.11;1.0->junit#junit;4.12 [test->master]
 [debug] == resolving dependencies default#bitcoinminer$sources_javadoc_2.11;1.0->org.hamcrest#hamcrest-core;1.3 [test->default(compile)]
 [info] Resolving org.hamcrest#hamcrest-core;1.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@791e7dc7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@223ce34f
 [debug] sbt-chain: module revision found in cache: org.hamcrest#hamcrest-core;1.3
 [debug] 	found org.hamcrest#hamcrest-core;1.3 in sbt-chain
 [debug] == resolving dependencies default#bitcoinminer$sources_javadoc_2.11;1.0->org.hamcrest#hamcrest-core;1.3 [test->runtime]
@@ -282,7 +282,7 @@
 [debug] == resolving dependencies default#bitcoinminer$sources_javadoc_2.11;1.0->org.hamcrest#hamcrest-core;1.3 [test->master]
 [debug] == resolving dependencies default#bitcoinminer$sources_javadoc_2.11;1.0->com.novocode#junit-interface;0.11 [test->default(compile)]
 [info] Resolving com.novocode#junit-interface;0.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5c3e0d32
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@8e9f3a2
 [debug] sbt-chain: module revision found in cache: com.novocode#junit-interface;0.11
 [debug] 	found com.novocode#junit-interface;0.11 in sbt-chain
 [debug] == resolving dependencies default#bitcoinminer$sources_javadoc_2.11;1.0->com.novocode#junit-interface;0.11 [test->runtime]
@@ -290,7 +290,7 @@
 [debug] == resolving dependencies default#bitcoinminer$sources_javadoc_2.11;1.0->com.novocode#junit-interface;0.11 [test->master]
 [debug] == resolving dependencies default#bitcoinminer$sources_javadoc_2.11;1.0->org.scala-sbt#test-interface;1.0 [test->default(compile)]
 [info] Resolving org.scala-sbt#test-interface;1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@19c892d0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7dc9a085
 [debug] sbt-chain: module revision found in cache: org.scala-sbt#test-interface;1.0
 [debug] 	found org.scala-sbt#test-interface;1.0 in sbt-chain
 [debug] == resolving dependencies default#bitcoinminer$sources_javadoc_2.11;1.0->org.scala-sbt#test-interface;1.0 [test->runtime]
@@ -773,7 +773,7 @@
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4!scala-parser-combinators_2.11.jar(doc)
 [debug] 	[NOT REQUIRED] jline#jline;2.12.1!jline.jar(src)
 [debug] 	[NOT REQUIRED] jline#jline;2.12.1!jline.jar(doc)
-[debug] :: resolution report :: resolve 552ms :: artifacts dl 72ms
+[debug] :: resolution report :: resolve 875ms :: artifacts dl 90ms
 [debug] 	report for default#bitcoinminer$sources_javadoc_2.11;1.0 compile produced in C:\Users\ramit\IdeaProjects\BitcoinMiner\target\resolution-cache\reports\default-bitcoinminer$sources_javadoc_2.11-compile.xml
 [debug] 	report for default#bitcoinminer$sources_javadoc_2.11;1.0 runtime produced in C:\Users\ramit\IdeaProjects\BitcoinMiner\target\resolution-cache\reports\default-bitcoinminer$sources_javadoc_2.11-runtime.xml
 [debug] 	report for default#bitcoinminer$sources_javadoc_2.11;1.0 test produced in C:\Users\ramit\IdeaProjects\BitcoinMiner\target\resolution-cache\reports\default-bitcoinminer$sources_javadoc_2.11-test.xml
@@ -787,4 +787,4 @@
 [debug] 	report for default#bitcoinminer$sources_javadoc_2.11;1.0 docs produced in C:\Users\ramit\IdeaProjects\BitcoinMiner\target\resolution-cache\reports\default-bitcoinminer$sources_javadoc_2.11-docs.xml
 [debug] 	report for default#bitcoinminer$sources_javadoc_2.11;1.0 pom produced in C:\Users\ramit\IdeaProjects\BitcoinMiner\target\resolution-cache\reports\default-bitcoinminer$sources_javadoc_2.11-pom.xml
 [debug] 	report for default#bitcoinminer$sources_javadoc_2.11;1.0 scala-tool produced in C:\Users\ramit\IdeaProjects\BitcoinMiner\target\resolution-cache\reports\default-bitcoinminer$sources_javadoc_2.11-scala-tool.xml
-[debug] 	resolve done (552ms resolve - 72ms download)
+[debug] 	resolve done (875ms resolve - 90ms download)
