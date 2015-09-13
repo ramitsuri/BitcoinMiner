@@ -4,7 +4,7 @@
 		module="bitcoinminer$sbt_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20150910114505"
+		publication="20150912201220"
 	/>
 	<configurations>
 		<conf name="default" visibility="public"/>
